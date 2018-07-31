@@ -1,4 +1,2 @@
-aeroplane
-bicycle
-bird
-boat
+mens_blazer
+women_dress
